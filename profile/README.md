@@ -1,6 +1,6 @@
 # Welcome to OtterLodgeStudios.github
 
-![Logo](/Profile/OLS-Logo.png)
+![Logo](/profile/OLS-Logo.png)
 
 We work to bring a better future to *the people*.  
 We believe that, together, we can build an amazing Global Community to benifit society at large.
@@ -9,7 +9,7 @@ We believe that, together, we can build an amazing Global Community to benifit s
 
 ### OrbitPulse
 
-![OrbitPulse](/Profile/OrbitPulse-Green-255x.png)
+![OrbitPulse](/profile/OrbitPulse-Green-255x.png)
 
 OrbitPulse is a software currently beind developed by OLS that focuses on Wealth Management.
 
@@ -34,7 +34,7 @@ We will not be able to see your data, nor will we be able to access it *(unlike 
 
 ### VerseLedge
 
-![VerseLeder](/Profile/VLLogo-Olisar-300xWide.png)
+![VerseLeder](/profile/VLLogo-Olisar-300xWide.png)
 
 VerseLedger is a Community Focused Application focusing on the VideoGame ***Star Citizen***.   
 It has been a passion project going on *3 years* now, and we are rapidly approaching our first release for βeta.
@@ -64,5 +64,5 @@ Thanks @MandaCorp
 
 More Projects are in the works, and when they become public we will have an update here for them as well as on our [Patreon](https://www.patreon.com/OtterLodgeStudios).
 
-![OLSDevLogo](/Profile/OtterLodgeDevelopmentLogo.png)  
+![OLSDevLogo](/profile/OtterLodgeDevelopmentLogo.png)  
 **Thank you for reading.**

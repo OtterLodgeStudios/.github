@@ -8,7 +8,7 @@ We believe that, together, we can build an amazing Global Community to benifit s
 ## Our Projects
 
 ### OrbitPulse
-![OrbitPulse](/Profile/OrbitPulse.png)
+![OrbitPulse](/Profile/OrbitPulse-Green-255x.png)
 OrbitPulse is a software currently beind developed by OLS that focuses on Wealth Management.
 
 Gone are the days of being able to purchase programs such as MSWord & Adobe Studios.
@@ -28,7 +28,7 @@ This is why we aim to bring you a packaged application that you can purchase for
 @ThreeCrown - Lead Developer
 
 ### VerseLedge
-![VerseLedge](/Profile/VerseLedge.png)
+![VerseLedge](/Profile/VLLogo-Olisar-300xWide.png)
 VerseLedger is a Community Focused Application focusing on the VideoGame ***Star Citizen***. It has been a passion project going on *3 years* now, and we are rapidly approaching our first release for βeta.
 
 A lot has been built on this platform, attempting to keep up with ***Star Citizen***'s development, and we are confident that *(while only releasing a fraction of the features we have architected)* this application will be a mainstay Third-Party Community Star Citizen Application that *EVERY* player will want to use.
